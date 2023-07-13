@@ -4,7 +4,7 @@
 
 #include <stdio.h>
 
-/*
+/**
  * main - Prints the size of various data types
  * return - ends the program. always 0
  */

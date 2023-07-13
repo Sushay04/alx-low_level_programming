@@ -4,7 +4,7 @@
 
 #include <stdio.h>
 
-/*
+/**
  * main - prints the exact specified message
  * return - ends the code. always 0
  */
