@@ -8,5 +8,5 @@ int main(void)
 
 	puts(Msg);
 
-	return 0;
+	return (0);
 }
