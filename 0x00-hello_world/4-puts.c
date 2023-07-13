@@ -6,7 +6,7 @@
 
 /**
  * main - prints the exact text stated in the instruction
- * return - always 0
+ * Return: Always 0.
  */
 int main(void)
 {

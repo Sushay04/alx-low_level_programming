@@ -6,7 +6,7 @@
 
 /**
  * main - prints the exact specified message
- * return - ends the code. always 0
+ * Return: Ends the code. always 0
  */
 int main(void)
 {

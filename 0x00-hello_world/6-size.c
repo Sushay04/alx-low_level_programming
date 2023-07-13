@@ -6,7 +6,7 @@
 
 /**
  * main - Prints the size of various data types
- * return - ends the program. always 0
+ * Return: Ends the program. always 0
  */
 int main(void)
 {
