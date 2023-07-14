@@ -1,12 +1,14 @@
+/*
+ * Task 0
+ */
+
 #include <stdlib.h>
 #include <time.h>
 #include <stdio.h>
-/**
- * Task 0 - Positive anything is better than negative nothing
- */
 
-/*
- * Main - Assigning a random number to n and printing what that number is 
+/**
+ * main - Assigning a random number to n and printing wheher +ve, -ve or 0
+ *
  * Return: Always 0.
  */
 int main(void)
@@ -23,7 +25,7 @@ int main(void)
 	{
 		printf("%d is zero\n", n);
 	}
-	else 
+	else
 	{
 		printf("%d is negative\n", n);
 	}
