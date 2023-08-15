@@ -7,7 +7,7 @@
  * @str: string
  * Return: length
  */
-int len(char *str)
+int len(const char *str)
 {
 	int i;
 
@@ -23,7 +23,7 @@ int len(char *str)
  * @src: this is the source to copy
  * Return: copy of original source
  */
-char *strcpy(char *dest, char *src)
+char *strcpy(char *dest, const char *src)
 {
 	int i;
 
